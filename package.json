@@ -2,7 +2,7 @@
   "name": "codex-drive",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://codexgegas.github.io/Codex-Drive"
+  "homepage": "https://codexgegas.github.io/Codex-Drive",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.34",
     "@fortawesome/free-solid-svg-icons": "^5.15.2",
@@ -23,8 +23,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
-    "predeploy": "npm rin build"
+    "eject": "react-scripts eject",
+    "predeploy": "npm rin build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
